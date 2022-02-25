@@ -1,0 +1,7 @@
+2022-02-23 02:41:00,752 - root - DEBUG - test
+2022-02-23 02:41:14,777 - root - DEBUG - test
+2022-02-23 02:41:14,777 - root - DEBUG - debug message here
+2022-02-23 02:41:14,777 - root - INFO - info message here
+2022-02-23 02:41:14,778 - root - WARNING - warning message here
+2022-02-23 02:41:14,778 - root - ERROR - error message here
+2022-02-23 02:41:14,778 - root - CRITICAL - critical message here
