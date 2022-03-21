@@ -5,7 +5,7 @@ class Cat:
     color = ''
 
     #constructor [boşta geçilebilir]
-    # __ ile başlayanlar python tarafından yazılmış
+    # __ ile başlayanlar python tarafından yazılmış.
     # self kullanılan objeye referans
 
     # def __init__():
